@@ -6,8 +6,7 @@ int main()
 #ifdef _WIN64
     freopen("input.json", "r", stdin);
     freopen("output.json", "w", stdout);
-    // freopen("greeting.svg", "w", stdout);
-    //   freopen("error-output.txt", "w", stderr);
+   
 #endif
 
     transport_catalogue::TransportCatalogue catalogue;
