@@ -46,3 +46,4 @@ namespace transport_catalogue
         bool is_roundtrip;
     };
 }
+
